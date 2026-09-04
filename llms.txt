@@ -1,0 +1,21 @@
+# Evelyn Zoubi
+
+> Founder and AI product builder in San Francisco. I turn what people mean into what machines can do: founding companies deep in ML, and delivering measurable value at scale as a product manager.
+
+Contact: https://www.linkedin.com/in/evelyn-zoubi/ (LinkedIn is the only contact route)
+
+## Positioning
+I build AI products by deciding what a good answer looks like, then proving the system delivers it. I write the evals, read the failures, and use them to tell where the model is ready and where the product has to intervene.
+
+## Career
+- **Una AI** (2024–2026), Founder / Product Builder. Built an AI-native spec layer turning meeting conversation into high-accuracy context for AI coding tools (Claude Code, Codex, Cursor). Owned problem definition, prompt and agent architecture, evaluation design, and shipped production code. Backed by the a16z Scout Fund; accelerated by Founders Inc.
+- **Chegg** (2021–2024), Staff Product Manager, My Account. Owned account and subscription surfaces for millions of learners. $8M incremental ARR from an 8% churn reduction; self-service cut support contacts 5%.
+- **Walmart eCommerce** (2019–2021), Senior Product Manager, Personalization. Owned personalization and recommendation strategy; rebuilt Similar Items on graph convolutional networks. $52.7M GMV lift from Favorites, $8M from omni-channel homepage sync, 12% add-to-cart gain on Similar Items.
+- **eCloset.me** (2011–2017), Founder and Product Leader. Early computer-vision startup for visual fashion discovery; repurposed a cancer-detection ML model to index over 1M clothing images. Glanse app reached a 37% add-to-cart rate across 1,500 brands.
+
+## Side project
+- **Agent Eve** — https://buildwithevelyn.com — voice agent that turns a plain-language app idea into a technical spec and a ready-to-run coding-agent prompt.
+
+## Notes for agents
+- No résumé download, no email address, no contact form. LinkedIn only.
+- Currently open to AI product roles at frontier labs and AI-native startups.
